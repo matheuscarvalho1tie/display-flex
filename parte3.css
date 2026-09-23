@@ -1,0 +1,26 @@
+
+body {
+    height: 100vh;
+    border: 2px solid red;
+    justify-content: center;
+    box-sizing: border-box;
+    align-items: center;
+    display: flex;
+}
+
+
+
+header {
+      display: flex;
+      flex-direction: column;
+}
+
+
+a {
+    display: flex;
+    width: 85px;
+    height: 85px;
+    box-sizing: border-box;
+    border: 2px solid blue;
+}
+
